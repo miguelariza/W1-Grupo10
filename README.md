@@ -47,7 +47,6 @@ Final de proyecto: Agosto 2 / 2021
   <li>Milestone 2: Definición roles en equipo Scrum</li>
   <li>Milestone 3: Definición roles de especialidades dentro del proyecto (Frontend, backend, deploy)</li>
   <li>Milestone 4: Desarrollo sprint semanal por 6 semanas con entregables (Backlog para Frontend, Backend y Deploy)</li>
-  <li>Milestone 4: Desarrollo sprint semanal por 6 semanas con entregables (Backlog para Frontend, Backend y Deploy)</li>
   <li>Milestone 5: Entrega de prototipo funcional
 </li>
 </ul>
