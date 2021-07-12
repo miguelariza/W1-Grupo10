@@ -1,6 +1,7 @@
 # W1-Grupo10
 
 Purpose
+
 Desarrollar un proyecto de servicio en línea bajo la metodología Scrum para el módulo de programación del programa MisionTic de la UIS.
 
 Scope
