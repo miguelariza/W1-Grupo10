@@ -55,11 +55,12 @@ Prototipo funcional para el rol de administrador y comprador de un tienda en lí
 
 <ul>
   <li>Product Owner: El Profe</li>
-  <li>Scrum master: Miguel Angel</li>
-  <li>Developer team (FrontEnd/Deploy):</li>
+  <li>Scrum master: </li>
+  <li>Developer team (FrontEnd):</li>
   <li>Developer team (FrontEnd):</li>
   <li>Developer team (BackEnd):</li>
   <li>Developer team (Backend):</li>
+  <li>Developer team (Deploy):</li>
   <li>Developer team (Deploy):</li>
 </ul>
 
