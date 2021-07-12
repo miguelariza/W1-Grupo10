@@ -42,11 +42,15 @@ Prototipo funcional para el rol de administrador y comprador de un tienda en lí
 
 Inicio de proyecto: Junio 28 / 2021
 Final de proyecto: Agosto 2 / 2021
-Milestone 1: Definición equipo de trabajo
-Milestone 2: Definición roles en equipo Scrum
-Milestone 3: Definición roles de especialidades dentro del proyecto (Frontend, backend, deploy)
-Milestone 4: Desarrollo sprint semanal por 6 semanas con entregables (Backlog para Frontend, Backend y Deploy)
-Milestone 6: Entrega de prototipo funcional
+<ul>
+  <li>Milestone 1: Definición equipo de trabajo</li>
+  <li>Milestone 2: Definición roles en equipo Scrum</li>
+  <li>Milestone 3: Definición roles de especialidades dentro del proyecto (Frontend, backend, deploy)</li>
+  <li>Milestone 4: Desarrollo sprint semanal por 6 semanas con entregables (Backlog para Frontend, Backend y Deploy)</li>
+  <li>Milestone 4: Desarrollo sprint semanal por 6 semanas con entregables (Backlog para Frontend, Backend y Deploy)</li>
+  <li>Milestone 5: Entrega de prototipo funcional
+</li>
+</ul>
 
 <b>Team</b>
 
