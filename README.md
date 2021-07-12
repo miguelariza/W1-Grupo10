@@ -40,9 +40,9 @@ Prototipo funcional para el rol de administrador y comprador de un tienda en lí
 
 <b>5. Milestones</b>
 
-Inicio de proyecto: Junio 28 / 2021
-Final de proyecto: Agosto 2 / 2021
 <ul>
+  <li>Inicio de proyecto: Junio 28 / 2021</li>
+  <li>Final de proyecto: Agosto 2 / 2021</li>
   <li>Milestone 1: Definición equipo de trabajo</li>
   <li>Milestone 2: Definición roles en equipo Scrum</li>
   <li>Milestone 3: Definición roles de especialidades dentro del proyecto (Frontend, backend, deploy)</li>
@@ -53,9 +53,15 @@ Final de proyecto: Agosto 2 / 2021
 
 <b>Team</b>
 
-Product Owner: El Profe
-Scrum master:
-Developer team:
+<ul>
+  <li>Product Owner: El Profe</li>
+  <li>Scrum master: Miguel Angel</li>
+  <li>Developer team (FrontEnd/Deploy):</li>
+  <li>Developer team (FrontEnd):</li>
+  <li>Developer team (BackEnd):</li>
+  <li>Developer team (Backend):</li>
+  <li>Developer team (Deploy):</li>
+</ul>
 
 <b>Stakeholders</b>
 
